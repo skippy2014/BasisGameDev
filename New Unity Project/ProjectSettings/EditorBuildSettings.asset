@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 35cbae218f42d0549ba1746e92d8a7be
+  - enabled: 1
+    path: Assets/Scenes/horror game.unity
+    guid: bffe372840eac534982c87723b682b1c
+  - enabled: 1
+    path: Assets/Scenes/death.unity
+    guid: 3a4eae9d2545fff42a99a4c897357967
+  - enabled: 1
+    path: Assets/Scenes/END.unity
+    guid: bdba8be742cc2a84e9a53a3e2cd18028
+  m_configObjects: {}
